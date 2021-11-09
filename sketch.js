@@ -30,7 +30,7 @@ function draw() {
 
      //spacecraft = spacecraftx + random(-1,1);
      //spacecraft.x = spacecraft.x + Random(-1,1);
-     //spacecraft.x = spacecraft.x + randomNumbers(-1,1);
+     spacecraft.x = spacecraft.x + randomNumbers(-1,1);
      //spacecraft.x = spacecraft.x + random(-1,1);
     
   if(keyDown("UP_ARROW")){
